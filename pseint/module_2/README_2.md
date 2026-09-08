@@ -28,7 +28,6 @@ Esta es la segunda parte de ejercicios prácticos propuestos de PSeInt. Esta par
    - Puntaje de admisión mayor o igual a 700 puntos.
    - Sin registros de faltas disciplinarias en su colegio (guardado en una variable lógica: Verdadero o Falso).
    - Nivel de inglés intermedio alcanzado (guardado en una variable lógica).
-
    Construye el algoritmo que determine la admisión evaluando las tres variables con el operador Y.
 
 ## Ejercicios Operador OR

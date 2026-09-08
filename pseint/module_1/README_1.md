@@ -8,7 +8,7 @@ Aquí se verán funciones cómo:
 - Si Entonces
 - Trunc
 - //
-
+## Ejercicios
 1. **Cálculo del Presupuesto para una Remodelación de Pisos**
     Un maestro constructor necesita calcular rápidamente el costo total de instalación de cerámica para una habitación rectangular. El cliente entrega las dimensiones de la habitación (largo y ancho en metros) y el precio por metro cuadrado de la cerámica elegida.
 
