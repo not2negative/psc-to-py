@@ -1,8 +1,6 @@
-# Variables
-edad = 0
-calificacion = 60
-
 # Verificador de Edad
+edad = int(input("Ingresa tu edad: "))
+
 if edad < 18 and edad > 1:
     print("Tú eres menor de edad.")
 elif edad >= 18 and edad < 60:
@@ -17,6 +15,8 @@ else:
     print("Feliz Cumpleaños!")
 
 # Verificador de Calificación
+calificacion = int(input("Ingresa tu calificación: "))
+
 if calificacion >= 90:
    print ("Excelente")
 elif calificacion >= 80:
