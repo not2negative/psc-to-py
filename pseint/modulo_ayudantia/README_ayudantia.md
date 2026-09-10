@@ -4,4 +4,3 @@ Este módulo de ejercicios de PSeInt está enfocado en reforzar mediante ejercic
 **Los archivos subidos se presentaran en este formato:**
 - c: Control[número]
 - e: Ejercicio[número]
-- v: Evaluación[número]
