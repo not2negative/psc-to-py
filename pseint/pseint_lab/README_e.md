@@ -1,2 +1,0 @@
-# Laboratorio de Práctica PSeInt
-Esta módulo es totalmente externo a los demás y es para subir cualquier programa de PSeInt independientemente de si los conceptos son más avanzados y díficiles o no.

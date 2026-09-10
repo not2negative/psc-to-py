@@ -2,7 +2,7 @@ Algoritmo ejercicio1
 	// Ejercicio 1 de la guía 1.
 	// Problema: Cálculo del Presupuesto para una Remodelaciï¿½n de pisos.
 	// Fase 1: Entrada
-	Escribir "Calculadora de costo total de instalaciï¿½n de cerï¿½mica para una habitaciï¿½n rectangular en mï¿½"
+	Escribir "Calculadora de costo total de instalación de cerámica para una habitación rectangular en m2"
 	Definir largo, ancho, area_total, merma, costo_m2, costo_total Como Real
 	Escribir "Ingrese el largo en metros: "
 	Leer largo

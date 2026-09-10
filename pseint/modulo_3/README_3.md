@@ -1,5 +1,5 @@
 # Ejercicios para entrenar la lógica de la programación en PSeInt
-Esta es la tercera parte de ejercicios prácticos propuestos de PSeInt. En este módulo ya se introducen conceptos muy útiles relacionados directamente con bucles, algo que está muy presente en python.
+Esta es la tercera (y posiblemente última) parte de ejercicios prácticos propuestos de PSeInt. En este módulo ya se introducen conceptos muy útiles relacionados directamente con bucles, algo que está muy presente en python.
 Acontinuación las funciones que se presentaran en este módulo:
 - MOD (%)
 - Mientras
