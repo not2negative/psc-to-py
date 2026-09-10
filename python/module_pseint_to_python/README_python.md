@@ -61,7 +61,7 @@ Serán exactamentes los mismos que los de PSeInt pero totalmente rehechos en pyt
 - [ejercicio48](../../pseint/modulo_ayudantia/e4.psc)
 - [ejercicio49](../../pseint/modulo_ayudantia/e5.psc)
 
-## Módulo extra/lab de PSeInt
+## Lab de PSeInt
 - [ejercicio50](../../pseint/pseint_lab/bloqueoCuentaBanco.psc)
 - [ejercicio51](../../pseint/pseint_lab/calcularAltura.psc)
 - [ejercicio52](../../pseint/pseint_lab/calcularNotas.psc)
