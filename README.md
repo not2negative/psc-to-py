@@ -14,5 +14,5 @@ En este repositorio todo esta organizado por carpetas las cúales contienen toda
 
 ## **Python**
 - [Carpeta principal de Python](/python)
-- [Módulo de PSeInt a Python](/python/module_pseint_to_python)
+- [Módulo de PSeInt a Python](/python/modulo_pseint_a_python)
 - [Lab de Python](/python/python_lab)
