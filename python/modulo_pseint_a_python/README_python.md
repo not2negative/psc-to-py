@@ -1,5 +1,5 @@
 # Ejercicios para entrenar la lógica de la programación en Python
-En este apartado convertiré la mayor parte de programas de PSeInt reescribiendolos con Python desde 0. Esto es únicamente por aprendizaje ya que Python es el lenguaje qmás popular y para toda persona que quiera empezar en el mundo de la programación es una excelente opción.
+En este apartado convertiré la mayor parte de programas de PSeInt reescribiendolos con Python desde 0. Esto es únicamente por aprendizaje ya que Python es el lenguaje más popular y para toda persona que quiera empezar en el mundo de la programación es una excelente opción.
 
 ## Ejercicios
 Serán exactamentes los mismos que los de PSeInt pero totalmente rehechos en python con una que otra pequeña modificación, si quieres ver los ejercicios originales te invito a que le eches un vistazo:
