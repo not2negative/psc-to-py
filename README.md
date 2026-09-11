@@ -1,5 +1,5 @@
 # psc-to-py
-Este repositorio esta hecho para tener el respaldo de mis archivos de PSeInt y además transformarlos a Python, esto con fines de aprendizaje con este código, me ayuda a familiarizarme con Python y otros lenguajes de programación que prácticare más adelante. 
+Este repositorio esta hecho para tener el respaldo de archivos de PSeInt y además transformarlos a Python, esto con fines de aprendizaje con este código, ayuda a familiarizarse con Python y otros lenguajes de programación que pueden practicar más adelante. 
 
 ## **Secciones y Accesos directos**
 En este repositorio todo esta organizado por carpetas las cúales contienen toda la documentación necesaria y archivos correspondientes a cada ruta.
