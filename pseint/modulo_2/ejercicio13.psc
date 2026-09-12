@@ -8,8 +8,8 @@ Algoritmo ejercicio13
 	Leer promedio_notas
 	// Proceso y salida
 	Si ingreso_familiar <= 400000 y promedio_notas > 6 Entonces
-		Escribir "La beca ser� otorgada al estudiante"
+		Escribir "La beca será otorgada al estudiante"
 	SiNo
-		Escribir "La beca no ser� otorgada"
+		Escribir "La beca no será otorgada"
 	FinSi
 FinAlgoritmo

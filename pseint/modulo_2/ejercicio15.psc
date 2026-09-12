@@ -6,6 +6,6 @@ Algoritmo ejercicio15
 	Si edad >= 18 y edad <= 25 Entonces
 		Escribir "Corresponde el descuento"
 	SiNo
-		Escribir "No tendr� el descuento"
+		Escribir "No tendrá el descuento"
 	FinSi
 FinAlgoritmo
